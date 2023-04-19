@@ -99,7 +99,7 @@ header{
     padding: 20px;
     background-color: var(--cor-cinza-carrinho);
     box-shadow: -3px 0 4px hsl(0 4% 15% / 10%);
-    transition: .4s ea;
+    transition: .4s ease-in-out;
 }
 
 .cart.active{
